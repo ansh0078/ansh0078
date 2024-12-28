@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 My name is Ansh Raj and i'm a Full stack Frontend Flutter Developer</h1>
+<h1 align="left">Hey 👋 My name is Ansh Raj and i'm a Full stack Flutter Developer</h1>
 
 ###
 
